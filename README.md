@@ -11,11 +11,11 @@ On this page you’ll find selected projects from my studies and research.
 
 ## 🚀 Featured Projects  
 - [**ML for Portfolio Construction**](https://github.com/Micha-29/Systematic-Investing-in-European-Equities-Using-ML)
-  *Top Dissertation in Class – Trinity MSc Business Analytics*  
+  *Top Dissertation in Class – MSc Business Analytics (Trinity)*  
   → Used ML models (Lasso, Ridge, Elastic Net, RF, LightGBM) to predict outperformers and integrate into mean-variance portfolios.  
 
 - [**Political Indicators & Asset Pricing**](https://github.com/Micha-29/ASEAN-Markets-LSTM-Predictions-Using-Political-Indicators)
-  *BSc Dissertation – 8.5/10, Cum Laude*  
+  *BSc Dissertation – 8.5/10, Cum Laude (Tilburg)*  
   → LSTM forecasting ASEAN stock indices with political governance indicators.  
 
 - [**NLP for ESG Rating Prediction**](https://github.com/Micha-29/Anticipating-ESG-Rating-Changes-Through-NLP-A-Data-Driven-Edge-for-Asset-Managers)
