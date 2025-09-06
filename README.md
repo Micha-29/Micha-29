@@ -4,7 +4,7 @@
 📊 MSc Business Analytics @ Trinity College Dublin (First Class Honours (1:1), Top of Class and Top Dissertation in Class)  
 📈 BSc International Business Administration @ Tilburg University (Cum Laude, Top 5%) 
 
-I’m passionate about **machine learning in finance**, portfolio optimisation, and systematic investing.  
+I’m passionate about capital markets, asset management, machine learning in finance, portfolio optimisation, and systematic investing.  
 On this page you’ll find selected projects from my studies and research.  
 
 ---
