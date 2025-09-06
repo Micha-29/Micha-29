@@ -10,19 +10,19 @@ On this page you’ll find selected projects from my studies and research.
 ---
 
 ## 🚀 Featured Projects  
-- [**ML for Portfolio Construction**](https://github.com/yourusername/master-dissertation)  
+- [**ML for Portfolio Construction**](https://github.com/Micha-29/Systematic-Investing-in-European-Equities-Using-ML)
   *Top Dissertation in Class – Trinity MSc Business Analytics*  
   → Used ML models (Lasso, Ridge, Elastic Net, RF, LightGBM) to predict outperformers and integrate into mean-variance portfolios.  
 
-- [**Political Indicators & Asset Pricing**](https://github.com/yourusername/bsc-dissertation)  
+- [**Political Indicators & Asset Pricing**](https://github.com/Micha-29/ASEAN-Markets-LSTM-Predictions-Using-Political-Indicators)
   *BSc Dissertation – 8.5/10, Cum Laude*  
   → LSTM forecasting ASEAN stock indices with political governance indicators.  
 
-- [**NLP for ESG Rating Prediction**](https://github.com/yourusername/esg-nlp)  
+- [**NLP for ESG Rating Prediction**](https://github.com/Micha-29/Anticipating-ESG-Rating-Changes-Through-NLP-A-Data-Driven-Edge-for-Asset-Managers)
   *Group Project – MSc Business Analytics (Trinity)*  
   → Predicted ESG scores using text mining & sentiment analysis of S&P 500 sustainability reports.  
 
-- [**Insurance Pricing with ML**](https://github.com/yourusername/insurance-ml)  
+- [**Insurance Pricing with ML**](https://github.com/Micha-29/Machine-Learning-and-Predictive-Analytics-in-the-Context-of-Pricing-Insurance-Policies)
   *Exchange Project @ NUS – Highest Mark in Class*  
   → Built predictive models with LIME interpretability to minimize underestimation risk in premiums.  
 
