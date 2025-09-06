@@ -1,7 +1,7 @@
 # Hi, I’m Michaïl 👋  
 
-🎓 MSc Investment & Wealth Management @ Imperial Business School 
-📊 MSc Business Analytics @ Trinity College Dublin (First Class Honours (1:1), Top of Class and Top Dissertation in Class) 
+🎓 MSc Investment & Wealth Management @ Imperial Business School  
+📊 MSc Business Analytics @ Trinity College Dublin (First Class Honours (1:1), Top of Class and Top Dissertation in Class)  
 📈 BSc International Business Administration @ Tilburg University (Cum Laude, Top 5%) 
 
 I’m passionate about **machine learning in finance**, portfolio optimisation, and systematic investing.  
