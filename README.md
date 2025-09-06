@@ -1,8 +1,8 @@
 # Hi, I’m Michaïl 👋  
 
 🎓 MSc Investment & Wealth Management @ Imperial Business School 
-📊 MSc Business Analytics @ Trinity College Dublin (First Class Honours (1:1), Top of Class and Top Dissertation in Class)   
-📈 BSc International Business Administration @ Tilburg University (Cum Laude, Top 5%)  
+📊 MSc Business Analytics @ Trinity College Dublin (First Class Honours (1:1), Top of Class and Top Dissertation in Class) 
+📈 BSc International Business Administration @ Tilburg University (Cum Laude, Top 5%) 
 
 I’m passionate about **machine learning in finance**, portfolio optimisation, and systematic investing.  
 On this page you’ll find selected projects from my studies and research.  
@@ -26,7 +26,7 @@ On this page you’ll find selected projects from my studies and research.
   *Exchange Project @ NUS – Highest Mark in Class*  
   → Built predictive models with LIME interpretability to minimize underestimation risk in premiums.  
 
-- [**Portfolio Optimisation with Regularisation**][(https://github.com/yourusername/portfolio-regularisation)](https://github.com/Micha-29/Machine-Learning-and-Predictive-Analytics-in-the-Context-of-Portfolio-Building-and-Optimisation)  
+- [**Portfolio Optimisation with Regularisation**](https://github.com/Micha-29/Machine-Learning-and-Predictive-Analytics-in-the-Context-of-Portfolio-Building-and-Optimisation)  
   *Exchange Project @ NUS*  
   → Applied Ridge & Lasso with weight constraints to outperform the equal-weighted benchmark.  
 
